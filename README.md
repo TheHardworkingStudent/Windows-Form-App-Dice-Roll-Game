@@ -1,6 +1,6 @@
 # Dice Roll Guessing Game
 ![Screenshot 2024-12-30 145554](https://github.com/user-attachments/assets/6596d129-f8d3-4ad7-8739-108c55336875)
-Description
+## Description
 
 The Dice Roll Guessing Game is a Windows Forms (or WPF) application where users can guess the value of a rolled 6-sided dice. The program tracks game statistics, including the number of times the user has played, their correct and incorrect guesses, and the frequency and percentage of each dice value rolled. Users can reset the game to its initial state at any time. The dice rolling animation simulates a realistic roll to enhance the user experience.
 
